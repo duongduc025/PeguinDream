@@ -4,7 +4,7 @@
 
 ## Overview
   - The game is a reference to the Flappy Bird by Nguyen Ha Dong released in 2013.
-  - The peguin wanna fly -> Peguin Dream.
+  - A penguin frequently glances up at the sky, wishing he could expand his wings and soar like other birds. In a nutshell, he wishes to fly. The peguin wanna fly -> Peguin Dream.
   - The game is a side-scroller where the player controls a peguin, attempting to fly between icicle (columns of ice) - aka obstructions without hitting them.
   
 ### Bonus
