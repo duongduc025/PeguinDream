@@ -13,6 +13,8 @@
 - More options
 - Character's animation, characters move flexibly
 - Two levels
+- Change map
+- Music, effect sound
 - ...
 
 ### Technologies and Technical Challenges
