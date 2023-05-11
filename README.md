@@ -11,6 +11,7 @@
 - New graphics
 - Menu game (setting, option, highest score, ...)
 - More options
+- Pause game
 - Character's animation, characters move flexibly
 - Two levels
 - Change map
