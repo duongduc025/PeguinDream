@@ -8,7 +8,7 @@
   - The game is a side-scroller where the player controls a peguin, attempting to fly between icicle (columns of ice) - aka obstructions without hitting them.
   
 ### Bonus
-- New graphics
+- New graphics (Design with pixilart) //tự tay vẽ 
 - Menu game (setting, option, highest score, ...)
 - More options
 - Pause game
